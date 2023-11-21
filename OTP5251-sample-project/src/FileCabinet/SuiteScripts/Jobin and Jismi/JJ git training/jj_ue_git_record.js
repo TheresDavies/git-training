@@ -30,6 +30,7 @@ define(['N/record'],
          * @since 2015.2
          */
         const beforeSubmit = (scriptContext) => {
+            //execute before submiting to database
 
         }
 
