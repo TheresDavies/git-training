@@ -17,6 +17,7 @@ define(['N/record'],
          * @since 2015.2
          */
         const beforeLoad = (scriptContext) => {
+            //execute before load
 
         }
 
